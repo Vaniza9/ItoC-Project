@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+<head>
+
+
+
+</head>
+
+
+
+
+
+<body>
+<div class="contact">
+<h1>HELLO!</h1>
+<h2>We are aways ready to Serve you!
+
+
+
+</body>
+</html>
